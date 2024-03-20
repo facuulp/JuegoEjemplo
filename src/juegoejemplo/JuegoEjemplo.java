@@ -11,7 +11,7 @@ public class JuegoEjemplo {
         Escena escena1=new Escena(ford);
         escena1.jugar();
       
-      
+        System.out.println("probando cambios");
         
         
         
